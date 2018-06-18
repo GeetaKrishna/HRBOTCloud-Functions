@@ -1,7 +1,7 @@
 #                                    Cloud Functions for HRBOT Voice Agent
 
 * Cloud Function for OTP's
-  * [Send an OTP] (https://github.com/GeetaKrishna/HRBOTCloud-Functions/blob/master/sendOTP.js)
-  * [Verify an OTP] (https://github.com/GeetaKrishna/HRBOTCloud-Functions/blob/master/verifyOTP.js)
+  * [Send an OTP] (./sendOTP.js)
+  * [Verify an OTP] (./verifyOTP.js)
   
 * Sequence for Mailing Conversations
