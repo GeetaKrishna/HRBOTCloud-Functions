@@ -4,4 +4,4 @@
   * Send an OTP
   * Verify an OTP
 
-*Sequence for Mailing Conversations
+* Sequence for Mailing Conversations
