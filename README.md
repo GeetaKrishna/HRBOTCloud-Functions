@@ -1,8 +1,7 @@
-# HRBOTCloud-Functions
-                                          Cloud Functions for HRBOT Voice Agent
+#                                    Cloud Functions for HRBOT Voice Agent
 
-1. Cloud Function for OTP's
-  a. Send an OTP
-  b. Verify an OTP
+* Cloud Function for OTP's
+  * Send an OTP
+  * Verify an OTP
 
-2.
+*Sequence for Mailing Conversations
